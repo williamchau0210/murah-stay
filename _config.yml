@@ -4,7 +4,7 @@ email:
 description: An app to connect you and all affordable rooms in Malaysia
 
 baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
-url: "https://williamchau0210.github.io/" # the base hostname & protocol for your site
+url: "https://williamchau0210.github.io/murah-stay/" # the base hostname & protocol for your site
 
 #Google Ad Words Data from scripts code (using Google responsive options) and ad client
 data-ad-slot: 2973388149
