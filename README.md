@@ -4,8 +4,8 @@ Download now at [Android Play Store](https://play.google.com/store/apps/details?
 
 ## Landing Page
 This app landing page refers to New Age bootstrap theme built by Antonio Trento. 
-Check this page now! https://williamchau0210.github.io/murah-stay
+Check this [page](https://williamchau0210.github.io/murah-stay) now! 
 
 ## Contact 
 Contact me now if you have any question / issue on this app / landing page. 
-[William Chau] (https://www.facebook.com/william.chau210/)
+[William Chau](https://www.facebook.com/william.chau210/)
